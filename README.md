@@ -59,49 +59,43 @@ The **Kinesin-14** family (formerly C-terminal motor) proteins possess a unique 
 ## Repository Structure
 
 ```
-kinesin-phylogenetics/
+Kinesin_Phylogeny_RAxML_Auspice/
 │
-├── 📓 notebooks/
+├── 📓 Notebooks/
 │   ├── 01_Kinesin_Motor_Proteins_Phylogeny.ipynb
 │   └── 02_Kinesin14_Family_Phylogeny.ipynb
 │
-├── 🧬 data/
-│   ├── sequences/
+├── 🧬 Data/
+│   ├── Sequences/
 │   │   ├── kinesin_all_families.fasta
 │   │   ├── kinesin14_family.fasta
 │   │   └── accession_numbers.txt
-│   └── alignments/
+│   └── Alignments/
 │       ├── kinesin_aligned.fasta
 │       └── kinesin14_aligned.fasta
 │
-├── 📊 figures/
+├── 📊 Figures/
 │   ├── kinesin_phylotree.png
 │   ├── kinesin14_phylotree.png
 │   ├── kinesin_circular_tree.png
 │   ├── sequence_length_distribution.png
 │   └── bootstrap_support_heatmap.png
 │
-├── 🔧 scripts/
+├── 🔧 Scripts/
 │   ├── fetch_sequences.py
 │   ├── run_alignment.py
 │   ├── run_raxml.py
 │   ├── plot_tree.py
 │   └── auspice_json_builder.py
 │
-├── 📈 results/
-│   ├── raxml_kinesin/
-│   └── raxml_kinesin14/
-│
-├── 🌐 auspice/
+├── 🌐 Auspice/
 │   ├── kinesin_auspice.json
 │   └── kinesin14_auspice.json
 │
-├── 📖 docs/
+├── 📖 Theory/
 │   ├── methods.md
 │   └── auspice_guide.md
 │
-├── environment.yml
-├── requirements.txt
 └── README.md
 ```
 
@@ -265,4 +259,5 @@ See [`Theory/methods.md`](Theory/methods.md) for complete details.
 7. Duke Kinesin Site: https://sites.duke.edu/kinesin/
 
 ---
+
 
