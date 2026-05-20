@@ -1,0 +1,372 @@
+{
+  "version": "v2",
+  "meta": {
+    "title": "Kinesin-14 Family Phylogeny",
+    "description": "Phylogeny of Kinesin-14 (C-terminal motor) family. Ref: Duke Kinesin Site.",
+    "colorings": [
+      {
+        "key": "directionality",
+        "title": "Motor Direction",
+        "type": "categorical"
+      },
+      {
+        "key": "species",
+        "title": "Species",
+        "type": "categorical"
+      },
+      {
+        "key": "gene",
+        "title": "Gene Name",
+        "type": "categorical"
+      }
+    ],
+    "display_defaults": {
+      "color_by": "directionality"
+    },
+    "panels": [
+      "tree"
+    ]
+  },
+  "tree": {
+    "name": "node_0_140194873398560",
+    "node_attrs": {
+      "div": 0,
+      "directionality": {
+        "value": "Unknown"
+      },
+      "species": {
+        "value": "node"
+      },
+      "gene": {
+        "value": "0"
+      }
+    },
+    "children": [
+      {
+        "name": "node_1_140194873398608",
+        "node_attrs": {
+          "div": 0.04,
+          "directionality": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "bootstrap": {
+            "value": 88.0
+          }
+        },
+        "children": [
+          {
+            "name": "node_2_140194873398656",
+            "node_attrs": {
+              "div": 0.03,
+              "directionality": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "bootstrap": {
+                "value": 92.0
+              }
+            },
+            "children": [
+              {
+                "name": "node_3_140194873398704",
+                "node_attrs": {
+                  "div": 0.03,
+                  "directionality": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "node"
+                  },
+                  "gene": {
+                    "value": "3"
+                  },
+                  "bootstrap": {
+                    "value": 98.0
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Ce_KLP17_minus",
+                    "node_attrs": {
+                      "div": 0.04,
+                      "directionality": {
+                        "value": "Minus-end"
+                      },
+                      "species": {
+                        "value": "Caenorhabditis elegans"
+                      },
+                      "gene": {
+                        "value": "KLP17"
+                      }
+                    }
+                  },
+                  {
+                    "name": "Ce_KLP16_minus",
+                    "node_attrs": {
+                      "div": 0.05,
+                      "directionality": {
+                        "value": "Minus-end"
+                      },
+                      "species": {
+                        "value": "Caenorhabditis elegans"
+                      },
+                      "gene": {
+                        "value": "KLP16"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "node_3_140194873398848",
+                "node_attrs": {
+                  "div": 0.04,
+                  "directionality": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "node"
+                  },
+                  "gene": {
+                    "value": "3"
+                  },
+                  "bootstrap": {
+                    "value": 100.0
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Dm_NCD_minus",
+                    "node_attrs": {
+                      "div": 0.06,
+                      "directionality": {
+                        "value": "Minus-end"
+                      },
+                      "species": {
+                        "value": "Drosophila melanogaster"
+                      },
+                      "gene": {
+                        "value": "NCD"
+                      }
+                    }
+                  },
+                  {
+                    "name": "Sc_KAR3_minus",
+                    "node_attrs": {
+                      "div": 0.08,
+                      "directionality": {
+                        "value": "Minus-end"
+                      },
+                      "species": {
+                        "value": "Saccharomyces cerevisiae"
+                      },
+                      "gene": {
+                        "value": "KAR3"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "node_2_140194873398992",
+            "node_attrs": {
+              "div": 0.05,
+              "directionality": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "bootstrap": {
+                "value": 96.0
+              }
+            },
+            "children": [
+              {
+                "name": "Cg_CHO2_minus",
+                "node_attrs": {
+                  "div": 0.09,
+                  "directionality": {
+                    "value": "Minus-end"
+                  },
+                  "species": {
+                    "value": "Cricetulus griseus"
+                  },
+                  "gene": {
+                    "value": "CHO2"
+                  }
+                }
+              },
+              {
+                "name": "At_KCBP_minus",
+                "node_attrs": {
+                  "div": 0.11,
+                  "directionality": {
+                    "value": "Minus-end"
+                  },
+                  "species": {
+                    "value": "Arabidopsis thaliana"
+                  },
+                  "gene": {
+                    "value": "KCBP"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "node_1_140194873399136",
+        "node_attrs": {
+          "div": 0.05,
+          "directionality": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "bootstrap": {
+            "value": 82.0
+          }
+        },
+        "children": [
+          {
+            "name": "node_2_140194873399184",
+            "node_attrs": {
+              "div": 0.04,
+              "directionality": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "bootstrap": {
+                "value": 95.0
+              }
+            },
+            "children": [
+              {
+                "name": "Hs_KIFC1_minus",
+                "node_attrs": {
+                  "div": 0.05,
+                  "directionality": {
+                    "value": "Minus-end"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIFC1"
+                  }
+                }
+              },
+              {
+                "name": "Hs_KIFC2_minus",
+                "node_attrs": {
+                  "div": 0.07,
+                  "directionality": {
+                    "value": "Minus-end"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIFC2"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "node_2_140194873399328",
+            "node_attrs": {
+              "div": 0.03,
+              "directionality": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "bootstrap": {
+                "value": 100.0
+              }
+            },
+            "children": [
+              {
+                "name": "At_KATA_unknown",
+                "node_attrs": {
+                  "div": 0.08,
+                  "directionality": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "Arabidopsis thaliana"
+                  },
+                  "gene": {
+                    "value": "KATA"
+                  }
+                }
+              },
+              {
+                "name": "At_KATB_unknown",
+                "node_attrs": {
+                  "div": 0.07,
+                  "directionality": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "Arabidopsis thaliana"
+                  },
+                  "gene": {
+                    "value": "KATB"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Ce_KLP3_unknown",
+            "node_attrs": {
+              "div": 0.12,
+              "directionality": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "Caenorhabditis elegans"
+              },
+              "gene": {
+                "value": "KLP3"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
