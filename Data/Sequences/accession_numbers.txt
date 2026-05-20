@@ -1,0 +1,60 @@
+# Kinesin Motor Protein NCBI Accession Numbers
+# Source: Duke Kinesin Site (https://sites.duke.edu/kinesin/)
+# Format: AccessionID  Family  Species  GeneName
+
+# ── Kinesin-1 (KHC) ──────────────────────────────────────────────
+NP_004983  Kinesin-1  Homo_sapiens       KIF5A
+NP_004521  Kinesin-1  Homo_sapiens       KIF5B
+NP_004954  Kinesin-1  Homo_sapiens       KIF5C
+NP_524153  Kinesin-1  Drosophila_mel     KHC
+NP_499043  Kinesin-1  C_elegans          UNC-116
+
+# ── Kinesin-2 (KRP85/95) ─────────────────────────────────────────
+NP_009376  Kinesin-2  Homo_sapiens       KIF3A
+NP_000219  Kinesin-2  Homo_sapiens       KIF3B
+NP_002243  Kinesin-2  Homo_sapiens       KIF3C
+NP_524582  Kinesin-2  Drosophila_mel     KLP64D
+
+# ── Kinesin-3 (Unc104/KIF1) ──────────────────────────────────────
+NP_004270  Kinesin-3  Homo_sapiens       KIF1A
+NP_055046  Kinesin-3  Homo_sapiens       KIF1B
+NP_443119  Kinesin-3  Homo_sapiens       KIF1C
+NP_493636  Kinesin-3  C_elegans          UNC-104
+
+# ── Kinesin-4 (ChrKin/KIF4) ──────────────────────────────────────
+NP_002253  Kinesin-4  Homo_sapiens       KIF4A
+NP_694544  Kinesin-4  Homo_sapiens       KIF4B
+NP_524914  Kinesin-4  Drosophila_mel     KLP3A
+
+# ── Kinesin-5 (BimC/Eg5) ─────────────────────────────────────────
+NP_004514  Kinesin-5  Homo_sapiens       KIF11
+NP_524907  Kinesin-5  Drosophila_mel     KLP61F
+NP_013710  Kinesin-5  S_cerevisiae       CIN8
+NP_013504  Kinesin-5  S_cerevisiae       KIP1
+
+# ── Kinesin-6 (MKLP1) ────────────────────────────────────────────
+NP_006255  Kinesin-6  Homo_sapiens       KIF23
+NP_524768  Kinesin-6  Drosophila_mel     PAVAROTTI
+NP_492484  Kinesin-6  C_elegans          ZEN-4
+
+# ── Kinesin-7 (CENP-E) ───────────────────────────────────────────
+NP_001800  Kinesin-7  Homo_sapiens       KIF10
+NP_596374  Kinesin-7  S_pombe            KLPA
+
+# ── Kinesin-8 (Kip3) ─────────────────────────────────────────────
+NP_055732  Kinesin-8  Homo_sapiens       KIF18A
+NP_872590  Kinesin-8  Homo_sapiens       KIF18B
+NP_013490  Kinesin-8  S_cerevisiae       KIP3
+
+# ── Kinesin-13 (MCAK/KIF2) ───────────────────────────────────────
+NP_006058  Kinesin-13 Homo_sapiens       KIF2A
+NP_001139494 Kinesin-13 Homo_sapiens     KIF2B
+NP_006836  Kinesin-13 Homo_sapiens       KIF2C
+
+# ── Kinesin-14 (C-Terminal Motor) — MINUS-END ────────────────────
+NP_477177  Kinesin-14 Drosophila_mel     NCD       # minus-end confirmed
+NP_013491  Kinesin-14 S_cerevisiae       KAR3      # minus-end confirmed
+NP_003147  Kinesin-14 Homo_sapiens       KIFC1
+NP_055854  Kinesin-14 Homo_sapiens       KIFC2
+NP_009118  Kinesin-14 Homo_sapiens       KIFC3
+NP_198067  Kinesin-14 Arabidopsis_thal   KCBP      # minus-end confirmed
