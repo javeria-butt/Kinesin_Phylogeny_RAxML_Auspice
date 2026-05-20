@@ -1,0 +1,860 @@
+{
+  "version": "v2",
+  "meta": {
+    "title": "Kinesin Motor Protein Superfamily Phylogeny",
+    "description": "ML phylogeny of kinesin superfamily (Kinesin-1\u201314). Ref: Duke Kinesin Site.",
+    "colorings": [
+      {
+        "key": "family",
+        "title": "Kinesin Family",
+        "type": "categorical"
+      },
+      {
+        "key": "species",
+        "title": "Species",
+        "type": "categorical"
+      },
+      {
+        "key": "directionality",
+        "title": "Motor Direction",
+        "type": "categorical"
+      },
+      {
+        "key": "gene",
+        "title": "Gene Name",
+        "type": "categorical"
+      }
+    ],
+    "display_defaults": {
+      "color_by": "family"
+    },
+    "panels": [
+      "tree"
+    ]
+  },
+  "tree": {
+    "name": "node_0_140194998853248",
+    "node_attrs": {
+      "div": 0,
+      "family": {
+        "value": "Unknown"
+      },
+      "species": {
+        "value": "node"
+      },
+      "gene": {
+        "value": "0"
+      },
+      "directionality": {
+        "value": "Plus-end"
+      }
+    },
+    "children": [
+      {
+        "name": "node_1_140194873085200",
+        "node_attrs": {
+          "div": 0.1,
+          "family": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "directionality": {
+            "value": "Plus-end"
+          },
+          "bootstrap": {
+            "value": 68.0
+          }
+        },
+        "children": [
+          {
+            "name": "node_2_140194873089808",
+            "node_attrs": {
+              "div": 0.06,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 88.0
+              }
+            },
+            "children": [
+              {
+                "name": "node_3_140194873261520",
+                "node_attrs": {
+                  "div": 0.04,
+                  "family": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "node"
+                  },
+                  "gene": {
+                    "value": "3"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  },
+                  "bootstrap": {
+                    "value": 95.0
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Hs_KIF5A_Kinesin1",
+                    "node_attrs": {
+                      "div": 0.05,
+                      "family": {
+                        "value": "Kinesin-1"
+                      },
+                      "species": {
+                        "value": "Homo sapiens"
+                      },
+                      "gene": {
+                        "value": "KIF5A"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  },
+                  {
+                    "name": "Hs_KIF5B_Kinesin1",
+                    "node_attrs": {
+                      "div": 0.06,
+                      "family": {
+                        "value": "Kinesin-1"
+                      },
+                      "species": {
+                        "value": "Homo sapiens"
+                      },
+                      "gene": {
+                        "value": "KIF5B"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "node_3_140194873395440",
+                "node_attrs": {
+                  "div": 0.05,
+                  "family": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "node"
+                  },
+                  "gene": {
+                    "value": "3"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  },
+                  "bootstrap": {
+                    "value": 90.0
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Dm_KHC_Kinesin1",
+                    "node_attrs": {
+                      "div": 0.08,
+                      "family": {
+                        "value": "Kinesin-1"
+                      },
+                      "species": {
+                        "value": "Drosophila melanogaster"
+                      },
+                      "gene": {
+                        "value": "KHC"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  },
+                  {
+                    "name": "Ce_UNC116_Kinesin1",
+                    "node_attrs": {
+                      "div": 0.09,
+                      "family": {
+                        "value": "Kinesin-1"
+                      },
+                      "species": {
+                        "value": "Caenorhabditis elegans"
+                      },
+                      "gene": {
+                        "value": "UNC116"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "node_2_140194873396976",
+            "node_attrs": {
+              "div": 0.09,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 75.0
+              }
+            },
+            "children": [
+              {
+                "name": "node_3_140194873397024",
+                "node_attrs": {
+                  "div": 0.07,
+                  "family": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "node"
+                  },
+                  "gene": {
+                    "value": "3"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  },
+                  "bootstrap": {
+                    "value": 85.0
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Hs_KIF3A_Kinesin2",
+                    "node_attrs": {
+                      "div": 0.07,
+                      "family": {
+                        "value": "Kinesin-2"
+                      },
+                      "species": {
+                        "value": "Homo sapiens"
+                      },
+                      "gene": {
+                        "value": "KIF3A"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  },
+                  {
+                    "name": "Dm_KLP64D_Kinesin2",
+                    "node_attrs": {
+                      "div": 0.1,
+                      "family": {
+                        "value": "Kinesin-2"
+                      },
+                      "species": {
+                        "value": "Drosophila melanogaster"
+                      },
+                      "gene": {
+                        "value": "KLP64D"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "node_3_140194873397168",
+                "node_attrs": {
+                  "div": 0.06,
+                  "family": {
+                    "value": "Unknown"
+                  },
+                  "species": {
+                    "value": "node"
+                  },
+                  "gene": {
+                    "value": "3"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  },
+                  "bootstrap": {
+                    "value": 91.0
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Hs_KIF1A_Kinesin3",
+                    "node_attrs": {
+                      "div": 0.08,
+                      "family": {
+                        "value": "Kinesin-3"
+                      },
+                      "species": {
+                        "value": "Homo sapiens"
+                      },
+                      "gene": {
+                        "value": "KIF1A"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  },
+                  {
+                    "name": "Ce_UNC104_Kinesin3",
+                    "node_attrs": {
+                      "div": 0.11,
+                      "family": {
+                        "value": "Kinesin-3"
+                      },
+                      "species": {
+                        "value": "Caenorhabditis elegans"
+                      },
+                      "gene": {
+                        "value": "UNC104"
+                      },
+                      "directionality": {
+                        "value": "Plus-end"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "node_1_140194873397312",
+        "node_attrs": {
+          "div": 0.08,
+          "family": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "directionality": {
+            "value": "Plus-end"
+          },
+          "bootstrap": {
+            "value": 72.0
+          }
+        },
+        "children": [
+          {
+            "name": "node_2_140194873397360",
+            "node_attrs": {
+              "div": 0.07,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 82.0
+              }
+            },
+            "children": [
+              {
+                "name": "Hs_KIF4A_Kinesin4",
+                "node_attrs": {
+                  "div": 0.09,
+                  "family": {
+                    "value": "Kinesin-4"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIF4A"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  }
+                }
+              },
+              {
+                "name": "Dm_KLP3A_Kinesin4",
+                "node_attrs": {
+                  "div": 0.12,
+                  "family": {
+                    "value": "Kinesin-4"
+                  },
+                  "species": {
+                    "value": "Drosophila melanogaster"
+                  },
+                  "gene": {
+                    "value": "KLP3A"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "node_2_140194873397504",
+            "node_attrs": {
+              "div": 0.06,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 89.0
+              }
+            },
+            "children": [
+              {
+                "name": "Hs_KIF11_Kinesin5",
+                "node_attrs": {
+                  "div": 0.07,
+                  "family": {
+                    "value": "Kinesin-5"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIF11"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  }
+                }
+              },
+              {
+                "name": "Sc_CIN8_Kinesin5",
+                "node_attrs": {
+                  "div": 0.15,
+                  "family": {
+                    "value": "Kinesin-5"
+                  },
+                  "species": {
+                    "value": "Saccharomyces cerevisiae"
+                  },
+                  "gene": {
+                    "value": "CIN8"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "node_1_140194873397648",
+        "node_attrs": {
+          "div": 0.07,
+          "family": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "directionality": {
+            "value": "Plus-end"
+          },
+          "bootstrap": {
+            "value": 78.0
+          }
+        },
+        "children": [
+          {
+            "name": "node_2_140194873397696",
+            "node_attrs": {
+              "div": 0.05,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 94.0
+              }
+            },
+            "children": [
+              {
+                "name": "Hs_KIF23_Kinesin6",
+                "node_attrs": {
+                  "div": 0.06,
+                  "family": {
+                    "value": "Kinesin-6"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIF23"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  }
+                }
+              },
+              {
+                "name": "Ce_ZEN4_Kinesin6",
+                "node_attrs": {
+                  "div": 0.09,
+                  "family": {
+                    "value": "Kinesin-6"
+                  },
+                  "species": {
+                    "value": "Caenorhabditis elegans"
+                  },
+                  "gene": {
+                    "value": "ZEN4"
+                  },
+                  "directionality": {
+                    "value": "Plus-end"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Hs_KIF10_Kinesin7",
+            "node_attrs": {
+              "div": 0.11,
+              "family": {
+                "value": "Kinesin-7"
+              },
+              "species": {
+                "value": "Homo sapiens"
+              },
+              "gene": {
+                "value": "KIF10"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "node_1_140194873397888",
+        "node_attrs": {
+          "div": 0.06,
+          "family": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "directionality": {
+            "value": "Plus-end"
+          },
+          "bootstrap": {
+            "value": 87.0
+          }
+        },
+        "children": [
+          {
+            "name": "Hs_KIF18A_Kinesin8",
+            "node_attrs": {
+              "div": 0.08,
+              "family": {
+                "value": "Kinesin-8"
+              },
+              "species": {
+                "value": "Homo sapiens"
+              },
+              "gene": {
+                "value": "KIF18A"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              }
+            }
+          },
+          {
+            "name": "Sc_KIP3_Kinesin8",
+            "node_attrs": {
+              "div": 0.14,
+              "family": {
+                "value": "Kinesin-8"
+              },
+              "species": {
+                "value": "Saccharomyces cerevisiae"
+              },
+              "gene": {
+                "value": "KIP3"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "node_1_140194873398032",
+        "node_attrs": {
+          "div": 0.05,
+          "family": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "directionality": {
+            "value": "Plus-end"
+          },
+          "bootstrap": {
+            "value": 93.0
+          }
+        },
+        "children": [
+          {
+            "name": "Hs_KIF2A_Kinesin13",
+            "node_attrs": {
+              "div": 0.09,
+              "family": {
+                "value": "Kinesin-13"
+              },
+              "species": {
+                "value": "Homo sapiens"
+              },
+              "gene": {
+                "value": "KIF2A"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              }
+            }
+          },
+          {
+            "name": "Hs_KIF2C_Kinesin13",
+            "node_attrs": {
+              "div": 0.08,
+              "family": {
+                "value": "Kinesin-13"
+              },
+              "species": {
+                "value": "Homo sapiens"
+              },
+              "gene": {
+                "value": "KIF2C"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "name": "node_1_140194873398176",
+        "node_attrs": {
+          "div": 0.09,
+          "family": {
+            "value": "Unknown"
+          },
+          "species": {
+            "value": "node"
+          },
+          "gene": {
+            "value": "1"
+          },
+          "directionality": {
+            "value": "Plus-end"
+          },
+          "bootstrap": {
+            "value": 84.0
+          }
+        },
+        "children": [
+          {
+            "name": "node_2_140194873398224",
+            "node_attrs": {
+              "div": 0.05,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 98.0
+              }
+            },
+            "children": [
+              {
+                "name": "Dm_NCD_Kinesin14",
+                "node_attrs": {
+                  "div": 0.06,
+                  "family": {
+                    "value": "Kinesin-14"
+                  },
+                  "species": {
+                    "value": "Drosophila melanogaster"
+                  },
+                  "gene": {
+                    "value": "NCD"
+                  },
+                  "directionality": {
+                    "value": "Minus-end"
+                  }
+                }
+              },
+              {
+                "name": "Sc_KAR3_Kinesin14",
+                "node_attrs": {
+                  "div": 0.09,
+                  "family": {
+                    "value": "Kinesin-14"
+                  },
+                  "species": {
+                    "value": "Saccharomyces cerevisiae"
+                  },
+                  "gene": {
+                    "value": "KAR3"
+                  },
+                  "directionality": {
+                    "value": "Minus-end"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "node_2_140194873398368",
+            "node_attrs": {
+              "div": 0.04,
+              "family": {
+                "value": "Unknown"
+              },
+              "species": {
+                "value": "node"
+              },
+              "gene": {
+                "value": "2"
+              },
+              "directionality": {
+                "value": "Plus-end"
+              },
+              "bootstrap": {
+                "value": 95.0
+              }
+            },
+            "children": [
+              {
+                "name": "Hs_KIFC1_Kinesin14",
+                "node_attrs": {
+                  "div": 0.07,
+                  "family": {
+                    "value": "Kinesin-14"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIFC1"
+                  },
+                  "directionality": {
+                    "value": "Minus-end"
+                  }
+                }
+              },
+              {
+                "name": "Hs_KIFC2_Kinesin14",
+                "node_attrs": {
+                  "div": 0.08,
+                  "family": {
+                    "value": "Kinesin-14"
+                  },
+                  "species": {
+                    "value": "Homo sapiens"
+                  },
+                  "gene": {
+                    "value": "KIFC2"
+                  },
+                  "directionality": {
+                    "value": "Minus-end"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
